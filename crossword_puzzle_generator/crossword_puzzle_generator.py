@@ -28,7 +28,6 @@ class CrossWordPuzzleGenerator:
         done_flag = self.addFirstWord()
 
         if not done_flag:
-            print("No solution")
             return False
 
         j = 0
@@ -40,7 +39,6 @@ class CrossWordPuzzleGenerator:
             if not flag:
                 j +=1
                 if j == self.max_iter:
-                    print("No solution")
                     return False
                 continue
             
