@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'crossword_puzzle_generator',     
   packages = ['crossword_puzzle_generator'],   
-  version = '0.1',      
+  version = '0.4',   
   license='MIT',
   description = 'A library to generate crossword puzzles',
   author = 'Ahmad Issa Alaa Aldine',                  
@@ -12,8 +12,6 @@ setup(
   keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'], 
   install_requires=[ 
           'numpy',
-          're',
-          'random',
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package

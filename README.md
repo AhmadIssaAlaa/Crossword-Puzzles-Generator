@@ -14,4 +14,4 @@ Apply
 ```sh
 python demo.py
 ```
-to generate a large number of crossword puzzles from a list of words provided by in the supported file (words_for_testings.txt)
+to generate a large number of crossword puzzles from a list of words provided by the supported file (words_for_testings.txt)
