@@ -8,7 +8,7 @@ setup(
   author = 'Ahmad Issa Alaa Aldine',                  
   author_email = 'ahmad_alaa_eddein@hotmail.com',     
   url = 'https://github.com/AhmadIssaAlaa',
-  download_url = 'https://github.com/AhmadIssaAlaa/crossword_puzzle_generator/archive/refs/tags/v0.1.tar.gz',
+  download_url = 'https://github.com/AhmadIssaAlaa/crossword_puzzle_generator/archive/refs/tags/v0.4.tar.gz',
   keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'], 
   install_requires=[ 
           'numpy',
