@@ -1,5 +1,5 @@
-from puzzle_question import PuzzleQuestion
-from crossword_puzzle_generator import CrossWordPuzzleGenerator
+# from puzzle_question import PuzzleQuestion
+from crossword_puzzle_generator import *
 
 max_word_length = 10
 
